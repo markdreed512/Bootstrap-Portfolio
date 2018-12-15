@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    
+    margin:0;
+    background-image:url('images/noise_lines/noise_lines.png');
+}
+
+
+
+.name-tab{
+    position:relative;
+    left:-20px;
+    height: 50px;
+    background-color: teal;
+    margin-left:0px;
+    margin-top:0px;
+    padding:0;
+   text-align: center;
+
+}
+.name-tab-text{
+   padding-top:7px;
+}
+.navbar{
+    margin: 0 auto;
+   
+    
+}
+
+.nav-row{
+    background-color: black;
+    height: 50px;
+}
+.navbar-brand{
+    margin-left:10px;
+    }
+
+
+
+hr{
+    background: grey;
+}
+
+
+
+
+.card,
+.card-body{
+    background-color:black;
+}
+.footr{
+    position:fixed;
+    bottom:0;
+}
